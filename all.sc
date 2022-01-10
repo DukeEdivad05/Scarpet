@@ -1,6 +1,7 @@
 global_scripts = [
     'barrier',
     'crumbleconcrete',
+    'debug_stick',
     'locateplayer',
     'mobleash',
     'pillagerleash',
